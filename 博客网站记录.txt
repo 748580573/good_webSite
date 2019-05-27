@@ -1,3 +1,4 @@
 http://www.ityouknow.com/spring-cloud.html
 https://blog.csdn.net/qq_35393693/article/details/80555216  手写spring 事务
 https://blog.csdn.net/qq_17305249/article/details/78150456   手写数据库连接池
+https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Inheritance_and_the_prototype_chain Web开发
