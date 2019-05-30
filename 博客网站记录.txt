@@ -2,4 +2,8 @@ http://www.ityouknow.com/spring-cloud.html
 https://blog.csdn.net/qq_35393693/article/details/80555216  手写spring 事务
 https://blog.csdn.net/qq_17305249/article/details/78150456   手写数据库连接池
 https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Inheritance_and_the_prototype_chain Web开发
-https://www.jianshu.com/p/2ec5d16db02b  linux开放指定端口
+https://www.jianshu.com/p/2ec5d16db02b  linux        开放指定端口
+https://www.ctolib.com/josonle-MapReduce-Demo.html#articleHeader7    CTOLib码库
+https://www.zhihu.com/question/26568496                 hadoop与spark的对比
+https://www.cnblogs.com/qingyunzong/p/8899715.html  spark 对每个分区之间的依赖的阐述（写得很好）
+https://www.w3cschool.cn/zookeeper/     W3C zookeeper教程
