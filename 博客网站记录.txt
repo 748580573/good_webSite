@@ -9,3 +9,4 @@ https://www.cnblogs.com/qingyunzong/p/8899715.html  spark 对每个分区之间的依赖的
 https://www.w3cschool.cn/zookeeper/     W3C zookeeper教程
 https://www.cnblogs.com/sunddenly/p/4092654.html      zookeeper详解（写得很好)
 https://makeling.github.io/bigdata/39395030.html           hadoop ssl
+https://makeling.github.io/bigdata/72ac84e3.html          kerberos简单配置攻略
