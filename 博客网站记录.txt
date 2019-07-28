@@ -11,3 +11,7 @@ https://www.cnblogs.com/sunddenly/p/4092654.html      zookeeper详解（写得很好)
 https://makeling.github.io/bigdata/39395030.html           hadoop ssl
 https://makeling.github.io/bigdata/72ac84e3.html          kerberos简单配置攻略
 https://blog.csdn.net/wulantian/article/details/42418231 kerberos认证过程详解
+https://www.w3cschool.cn/quartz_doc/quartz_doc-2put2clm.html   quartz学习手册
+https://www.nuoweb.com/database/1074.html             mysql安装1
+https://blog.csdn.net/bao19901210/article/details/51917641  mysql安装2
+https://www.jianshu.com/p/65a3476757a5                 spring-submit提交方式详解
